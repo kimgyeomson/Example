@@ -1,2 +1,2 @@
-# Example
-프로그램
+# Exampleㅍ
+프로그램만들기
